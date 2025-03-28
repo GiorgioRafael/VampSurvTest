@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27f7228e3671690418b46c86d84531f9, type: 3}
+  m_Name: Garlic Weapon LV3
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 3885051503259894039, guid: ed76e04933634c549b45d56b99abb42f, type: 3}
+  damage: 10
+  speed: 0
+  cooldownDuration: 1
+  pierce: 0
+  destroyAfterSeconds: 0.5
+  level: 2
+  nextLevelPrefab: {fileID: 0}
+  name: Aura poderosa Level 3
+  description: Aumenta o dano base em 2
+  icon: {fileID: 1996521656, guid: 55da63f400133864494098aa203de34a, type: 3}
+  evolvedUpgradeToRemove: 0
